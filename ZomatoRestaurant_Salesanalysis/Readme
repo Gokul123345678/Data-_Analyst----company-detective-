@@ -1,1 +1,35 @@
+🍽️ Zomato Restaurants Data Analysis Dashboard
+Unlocking Insights from Global Restaurant Data with Power BI
 
+This repository presents a comprehensive Power BI dashboard designed to extract actionable insights from Zomato's global restaurant dataset. The interactive visualizations reveal key trends in cuisine popularity, customer ratings, service offerings (like online delivery and table booking), and geographic distribution across 15 countries and 141 cities.
+
+🎯 Key Features
+Global Restaurant Overview:
+Total 9,551 restaurants across 15 countries and 141 cities.
+Interactive filters by country, rating, and service type.
+Service Adoption Analysis:
+Table Booking: 1,160 restaurants offer table booking vs. 8,390 that don’t.
+Online Delivery: 2,450 restaurants provide delivery services vs. 7,100 that don’t.
+Cuisine Insights:
+Top cuisines by restaurant count:
+North Indian (3,960)
+Chinese (2,735)
+Fast Food (1,986)
+Mughlai, Italian, Bakery, Continental, and Café chains.
+Rating Distribution:
+Visual breakdown of restaurants by rating buckets (1–2, 2–3, 3–4, 4–5).
+Average ratings for top restaurant chains (e.g., Café Coffee Day: 2.61, Domino’s Pizza: 3.36).
+Geographic Analysis:
+Restaurant density by country:
+India (8,652), USA (434), Turkey (60), Canada (40), Brazil (24), etc.
+City-wise distribution: New Delhi leads with 5,473 restaurants.
+📊 Dashboard Views
+Executive Summary: High-level KPIs including total restaurants, cities, countries, and cuisines.
+Service Offerings: Insights into table booking and online delivery adoption.
+Cuisine & Chain Performance: Popularity and rating analysis by cuisine and brand.
+Interactive Filters: Dynamic exploration by country, rating, and year.
+🛠️ Tools Used
+Power BI Desktop
+DAX for calculated measures
+Data Modeling for relationships between dimensions (Country, Cuisine, Restaurant)
+Custom Visuals & Conditional Formatting
